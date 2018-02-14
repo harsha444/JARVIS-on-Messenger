@@ -12,5 +12,11 @@
 	"test": {
 		"intent": "xkcd",
 		"entities": []
+	},
+	"pnr status for 9876567988": {
+		"intent": "pnr",
+		"entities": [{
+			"value": "9876567988"
+		}]
 	}
 }
